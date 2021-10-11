@@ -1,6 +1,6 @@
 # LukaStudio v0.9.2
 # This script exploits multiple threads for parallel computing:
-# This script has been tested under ubuntu 19.10, to set up the environment with terminal:
+# This script has been tested under ubuntu 21.04 LTS, to set up the environment with terminal:
   # sudo apt update && sudo apt install r-base r-cran-rjava -y
   # sudo apt install libxml2-dev libssl-dev libcurl4-openssl-dev libxml2-dev -y
   # sudo -i R
