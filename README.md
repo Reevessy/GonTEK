@@ -1,6 +1,6 @@
 # LukaStudio
 **An R script for NGS data processing in Gondek lab**    
-(Optimized for parallel processing of .HC.VCF and .MDLVC.VCF files)
+Optimized for parallel processing and filtering of variants called by HaplotypeCaller (.HC.VCF files) and JHU's in-house variant caller, MDLVC (.MDLVC.VCF files).
 
 ##### Please install the below R packages for the running environment:
 ```
