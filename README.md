@@ -8,6 +8,6 @@ install.packages(c("filesstrings", "R.utils", "vcfR", "rvest", "dplyr", "tidyr",
 ```
 
 ##### Input file formats:
-> .HC.VCF files    
-> .MDLVC.VCF files    
+> *.HC.VCF files    
+> *.MDLVC.VCF files    
 
