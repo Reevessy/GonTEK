@@ -1,4 +1,4 @@
-# GonTEK: An NGS data processing tool for Gondek lab
+# GonTEK: A NGS data processing tool for Gondek lab
 **Parallel processing tool for variants called by HaplotypeCaller and JHU's in-house variant caller, MDLVC.**    
 *Current version: v1.0.2*
 
