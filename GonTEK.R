@@ -1,4 +1,4 @@
-# LukaStudio v0.9.2
+# GonTEK v1.0.2
 # This script exploits multiple threads for parallel computing:
 # This script has been tested under ubuntu 21.04 LTS, to set up the environment with terminal:
   # sudo apt update && sudo apt install r-base r-cran-rjava -y
@@ -13,7 +13,7 @@
 lapply(c("vcfR", "parallel", "foreach", "doParallel", "R.utils", 
          "dplyr", "tidyr", "filesstrings", "rlang", "writexl"), 
        require, character.only = TRUE)
-print("Welcome to LukaStudio, the system is loading...")
+print("Welcome! The system is loading...")
 
 
 # Set the folder containing current R script as working directory
