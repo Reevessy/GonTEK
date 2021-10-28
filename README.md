@@ -1,6 +1,6 @@
 # GonTEK
 **An R script for NGS data processing in Gondek lab**    
-Parallel processing and filtering tool for variants called by HaplotypeCaller and JHU's in-house variant caller, MDLVC.
+Parallel processing tool for variants called by HaplotypeCaller and JHU's in-house variant caller, MDLVC.
 
 ##### Please install the below R packages for the running environment:
 ```
